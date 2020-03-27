@@ -1,5 +1,5 @@
 # Catagories
- * Verification tricks: [a relative link](verification_tricks/uvm/seq_item_port.md)
- * Architecture study notes
- * SoC study notes
- * General
+ - [Verification tricks](verification_tricks/verification_teicks_index.md)
+ - Architecture study notes
+ - SoC study notes
+ - General
